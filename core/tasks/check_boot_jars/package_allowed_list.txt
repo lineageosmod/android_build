@@ -271,3 +271,14 @@ org\.ifaa\.android\.manager.*
 ###################################################
 # OnePlus ODM
 net\.oneplus\.odm.*
+
+###################################################
+# MediaTek IMS
+com\.mediatek\.android\.mms\.pdu.*
+com\.mediatek\.dm.*
+com\.mediatek\.gba.*
+com\.mediatek\.gwsd.*
+com\.mediatek\.ims.*
+com\.mediatek\.internal\.telecom.*
+com\.mediatek\.internal\.telephony.*
+mediatek\.telecom.*
